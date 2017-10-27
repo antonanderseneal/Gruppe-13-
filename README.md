@@ -3,3 +3,5 @@
 ## Dette test 
 
 Alaa siger hej
+
+Bjarne siger hej
